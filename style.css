@@ -1,0 +1,34 @@
+h1 {
+  color: #64d898;
+  font-size: 60px;
+  text-align: center; }
+  h1 h {
+    font-weight: normal; }
+
+h2 {
+  color: #b2f368;
+  text-align: center;
+  font-size: 40px; }
+
+.img, .imgBox {
+  text-align: center; }
+
+ul li {
+  color: #45dfdf;
+  font-size: 30px;
+  text-align: center; }
+
+#room {
+  text-align: center;
+  font-size: x-large;
+  font-weight: normal;
+  color: #fa9d92; }
+
+@media (min-width: 500px) {
+  body {
+    background-color: #f1d4e3; } }
+@media (max-width: 499px) {
+  body {
+    background-color: #e6eeb9; } }
+
+/*# sourceMappingURL=style.css.map */
